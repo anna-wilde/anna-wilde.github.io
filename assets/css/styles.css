@@ -560,20 +560,8 @@ video {
   position: fixed;
 }
 
-.absolute{
-  position: absolute;
-}
-
 .relative{
   position: relative;
-}
-
-.sticky{
-  position: sticky;
-}
-
-.bottom-0{
-  bottom: 0px;
 }
 
 .mx-8{
