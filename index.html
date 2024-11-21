@@ -10,12 +10,114 @@ description: Praxis für Systemische Therapie, Coaching & Supervision
   </div>
 </header>
 
-{% include de/start.html %}
+<div class="flex justify-center bg-white">
+  <div class="flex flex-col md:flex-row justify-evenly">
+      <div class="px-4 py-16 md:w-1/2">
+          <div class="text-md-anna text-blue-anna lg:mx-8">
 
-{% include de/haltung.html %}
+            {% include de/start.html %}
 
-{% include de/therapie.html %}
+          </div>
+      </div>
+      <div class="md:shrink-0 md:w-1/2">
+          <picture>
+              <source 
+                  media="(min-width: 768px)"
+                  srcset="/assets/img/portrait.webp">
+              <source 
+                  media="(max-width: 768px)"
+                  srcset="/assets/img/portrait_crop.webp">
+              <img src="/assets/img/portrait.webp" class="object-cover w-full md:h-full">
+          </picture>
 
-{% include de/coaching.html %}
+      </div>            
+  </div>
+</div>
+
+
+<div class="flex justify-center bg-yellow-anna">
+  <div class="flex-col justify-between my-24 single-col-anna">
+
+  <header class="mb-4 text-blue-anna">
+      <h2>Haltung</h2>
+  </header>    
+  
+  <div class="text-blue-anna">
+      <h3>
+
+        {% include de/haltung.html %}
+
+      </h3>
+  </div>
+
+  </div>
+</div>
+
+
+
+<a name="therapie"></a>
+<div id="therapie" class="flex justify-center">
+    <div class="flex-col justify-between my-14 wide-col-anna">
+
+    <header class="my-12">
+        <h2 class="text-blue-anna">Therapie</h2>
+    </header>    
+    
+    <div class="grid grid-flow-row sm:grid-cols-2 md:grid-cols-3 gap-8 text-anna">
+        <div class="py-4">
+            <img src="/assets/img/systemische-therapie.webp">
+            <h3 class="my-4 text-blue-anna">Systemische Therapie</h3>
+
+            {% include de/systemische-therapie.html %}
+
+        </div>
+  
+        <div class="py-4">
+            <img src="/assets/img/paar-therapie.webp">
+            <h3 class="my-4 text-blue-anna">Paartherapie</h3>
+
+            {% include de/paartherapie.html %}
+
+        </div>
+
+        <div class="py-4">
+            <img src="/assets/img/familientherapie.webp">
+            <h3 class="my-4 text-blue-anna">Familientherapie</h3>
+
+            {% include de/familientherapie.html %}
+
+        </div>
+    </div>
+
+    </div>
+</div>
+
+<div id="coaching" class="flex justify-center bg-yellow-anna">
+  <div class="flex-col py-14 justify-between wide-col-anna">
+
+      <header class="my-12">
+          <h2 class="text-blue-anna">Coaching & Supervision</h2>
+      </header>    
+      
+      <div class="flex flex-col sm:flex-row justify-items-stretch gap-8">
+          <div class="my-4 sm:w-1/2 text-anna">
+              <h3 class="my-4 text-blue-anna">Coaching</h3>
+
+              {% include de/coaching.html %}
+
+          </div>
+
+          <div class="my-4 sm:w-1/2 text-anna">
+              <h3 class="my-4 text-blue-anna">Supervision</h3>
+
+              {% include de/supervision.html %}
+
+            </div>
+      </div>
+
+  </div>
+</div>
+
+
 
 <a id="zl-url" class="zl-url" href="https://www.jameda.de/anna-wilde/heilpraktiker-fuer-psychotherapie/berlin" rel="nofollow" data-zlw-doctor="anna-wilde" data-zlw-type="button_calendar_floating_medium" data-zlw-opinion="false" data-zlw-hide-branding="true" data-zlw-saas-only="true">Anna Wilde - jameda.de</a><script>!function($_x,_s,id){var js,fjs=$_x.getElementsByTagName(_s)[0];if(!$_x.getElementById(id)){js = $_x.createElement(_s);js.id = id;js.src = "//platform.docplanner.com/js/widget.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","zl-widget-s");</script>
