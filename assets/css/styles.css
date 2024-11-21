@@ -837,6 +837,7 @@ div.links-without-underline a {
   font-size: clamp(1.8rem, 3vw, 2.7rem);
   font-family: Raleway;
   font-weight: 300;
+  line-height: 1.25;
 }
 
 .single-col-anna{
@@ -880,6 +881,7 @@ h2{
   font-size: clamp(1.8rem, 3vw, 2.7rem);
   font-family: Raleway;
   font-weight: 300;
+  line-height: 1.25;
 }
 
 h3{
