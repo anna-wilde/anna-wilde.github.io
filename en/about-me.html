@@ -13,26 +13,57 @@ description: Practice for Systemic Therapy, Coaching & Supervision - About Me
                 </div>
             
                 <div class="md:w-2/3 text-md-anna text-blue-anna">
-                    <p>
-                        As a systemic therapist, my main focus is on relationships — whether within families, partnerships, or in
-                        teams and organizations. Just as important to my work is the relationship we each have with
-                        ourselves.
-                    </p><p>
-                        When limiting beliefs come into play, it can sometimes be challenging to align our needs with our
-                        decisions and the expectations we perceive around us.
-                    </p><p>
-                        Our self-image and the relationship we have with ourselves often shape how we make decisions, set
-                        boundaries, and allow ourselves to meet our own needs. Times of conflict or crisis present an
-                        opportunity to bring these dynamics into focus and, ultimately, to adjust them in new and helpful
-                        ways.
-                    </p>
+
+                    {% include en/about.html %}
+
                 </div>
             </div>
         </div>
 
         <div class="bg-blue-anna text-white text-md-anna w-full">
-            {% include en/background.html %}
-    
+            <div class="flex justify-center">
+                <div class="flex-col my-16 md:mx-16 wide-col-anna gap-8">
+            
+                    <div>
+                        <h2>My Background</h2>
+                    </div>
+                    <hr>
+                    <div class="flex flex-col md:flex-row justify-evenly my-8">
+                        <div class="md:w-1/2">
+                            <h3>Training</h3>
+                        </div>  
+                        <div class="md:w-1/2">
+            
+                            {% include en/training.html %}
+            
+                        </div>
+                    </div>
+                    <hr>
+                    <div class="flex flex-col md:flex-row justify-evenly my-8">
+                        <div class="md:w-1/2">
+                            <h3>Additional Roles</h3>
+                        </div>
+                        <div class="md:w-1/2">
+            
+                            {% include en/additional-roles.html %}
+            
+                        </div>
+                    </div>
+                    <hr>
+                    <div class="flex flex-col md:flex-row justify-evenly my-8">
+                        <div class="md:w-1/2">
+                            <h3>Education</h3>
+                        </div>
+                        <div class="md:w-1/2">
+            
+                            {% include en/education.html %}
+            
+                        </div>
+                    </div>
+                    
+                </div>
+            </div>
+                
         </div>
 
     </div>
