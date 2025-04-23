@@ -2,7 +2,7 @@
 layout: en/post
 date: 2025-04-23
 title: Systemic Parent Coaching
-description: 'This article is about systemic parent coaching according to Haim Omer. It sheds light on the concept of parental presence. Furthermore, it addresses the question of how parents can regain their agency in challenging times through an attitude of Non-Violent Resistance and through relationship.'
+description: 'This article is about systemic parent coaching according to Haim Omer. It sheds light on the concept of parental presence.'
 
 ---
 Parental Presence: How Parents Regain Agency Through Inner Stance and Relationship in Challenging Times
