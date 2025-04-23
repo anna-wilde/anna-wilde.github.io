@@ -2,7 +2,7 @@
 layout: en/post
 date: 2025-04-23
 title: What does "systemic" actually mean?
-description: 'This is about the mindset behind systemic therapy or coaching. What exactly makes this approach so special? And how does constructivism factor into this therapeutic attitude?'
+description: 'This is about the mindset behind systemic therapy or coaching. What exactly makes this approach so special?'
 
 ---
 What does "systemic" actually mean?

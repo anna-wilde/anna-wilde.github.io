@@ -2,7 +2,7 @@
 layout: de/post
 date: 2025-04-23
 title: Was bedeutet systemisch?
-description: 'Hier geht es um die Haltung hinter der systemischen Therapie oder Coaching. Was macht diesen Ansatz eigentlich so besonders? Und wie spielt der Konstruktivismus bei dieser therapeutischen Haltung mit rein?'
+description: 'Hier geht es um die Haltung hinter der systemischen Therapie. Was macht diesen Ansatz eigentlich so besonders?'
 
 ---
 Was bedeutet systemisch?
