@@ -5,10 +5,6 @@ title: Systemisches Elterncoaching
 description: 'Dieser Artikel handelt vom systemischen Elterncoaching nach Haim Omer. Es beleuchtet das Konzept der elterlichen Präsenz.'
 
 ---
-Systemisches Elterncoaching
-
-
-
 Elterliche Präsenz: Wie Eltern in herausfordernden Zeiten durch innere Haltung und Beziehung wieder handlungsfähig werden
 
 Inmitten von Alltagshektik und familiären Herausforderungen kann es passieren, dass Eltern ihre elterliche Präsenz im Leben ihrer Kinder verlieren. Seien es belastende familiäre Konfliktdynamiken oder Paarkonflikte, die auf die Familiendynamik ausstrahlen, Mobbing in der Schule oder psychische Belastungen. Reagieren Kinder ihren Eltern gegenüber darauf mit herausforderndem Verhalten, fehlt zur elterlichen Überforderung nicht mehr viel. 
