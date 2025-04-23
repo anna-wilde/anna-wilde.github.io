@@ -2,7 +2,7 @@
 layout: de/post
 date: 2025-03-12
 title: Akzeptanz
-description: In diesem Artikel geht es um ACT - die Acceptance & Commitment Therapie, die eine besondere Haltung in Bezug auf Krisen vermittelt - ganz nach dem Motto „Connect with the crisis“.
+description: In diesem Artikel geht es um ACT - die Acceptance & Commitment Therapie, die eine besondere Haltung in Bezug auf Krisen vermittelt.
 
 ---
 „Connect with the crisis“ 
