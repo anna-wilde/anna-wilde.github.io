@@ -5,9 +5,9 @@ title: Systemisches Elterncoaching
 description: 'Dieser Artikel handelt vom systemischen Elterncoaching nach Haim Omer. Es beleuchtet das Konzept der elterlichen Präsenz.'
 
 ---
-Elterliche Präsenz: Wie Eltern in herausfordernden Zeiten durch innere Haltung und Beziehung wieder handlungsfähig werden
+Elterliche Präsenz: Wie Eltern in herausfordernden Zeiten durch Beziehung und eine Haltung des Gewaltfreien Widerstands wieder handlungsfähig werden
 
-Inmitten von Alltagshektik und familiären Herausforderungen kann es passieren, dass Eltern ihre elterliche Präsenz im Leben ihrer Kinder verlieren. Seien es belastende familiäre Konfliktdynamiken oder Paarkonflikte, die auf die Familiendynamik ausstrahlen, Mobbing in der Schule oder psychische Belastungen. Reagieren Kinder ihren Eltern gegenüber darauf mit herausforderndem Verhalten, fehlt zur elterlichen Überforderung nicht mehr viel. 
+Inmitten von Alltagshektik und familiären Herausforderungen kann es passieren, dass Eltern ihre elterliche Präsenz verlieren. Seien es belastende familiäre Konfliktdynamiken oder Paarkonflikte, die auf die Familiendynamik ausstrahlen, Mobbing in der Schule oder psychische Belastungen. Reagieren Kinder ihren Eltern gegenüber darauf mit herausforderndem Verhalten, fehlt zur elterlichen Überforderung nicht mehr viel. 
 Häufig entsteht ein Komplex aus Belastungen, der von einem Gefühl der Ohnmacht und der Scham begleitet wird - und nicht selten zu einem inneren Rückzug führt. Diese Spirale verstärkt sich durch die Tendenz, sich weiter zurückzuziehen und mit der Überforderung alleine zu bleiben. 
 
 Hier setzt das Konzept des systemischen Elterncoachings an, das von Haim Omer und Arist von Schlippe entwickelt wurde. Es dreht sich darum, Eltern in diesen herausfordernden Zeiten zu stärken und sie darin zu begleiten, ihre elterliche Präsenz und Selbstwirksamkeit wiederzufinden. Dieser Ansatz geht auf die Haltung des Gewaltfreien Widerstands zurück: Durch eine Haltung der wachsamen Sorge, der Beharrlichkeit und des Respekts, fernab von Drohungen und Machtkämpfen.
