@@ -2,7 +2,7 @@
 layout: de/post
 date: 2025-04-23
 title: Systemisches Elterncoaching
-description: 'Dieser Artikel handelt vom systemischen Elterncoaching nach Haim Omer. Es beleuchtet das Konzept der elterlichen Präsenz. Außerdem wird hier die Frage behandelt, wie Eltern in herausfordernden Zeiten durch eine Haltung des Gewaltfreien Widerstands und durch Beziehung wieder handlungsfähig werden.'
+description: 'Dieser Artikel handelt vom systemischen Elterncoaching nach Haim Omer. Es beleuchtet das Konzept der elterlichen Präsenz.'
 
 ---
 Systemisches Elterncoaching
