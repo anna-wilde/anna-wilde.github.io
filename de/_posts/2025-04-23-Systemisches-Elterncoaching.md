@@ -32,20 +32,6 @@ Ein wesentlicher Aspekt, um elterliche Präsenz im Alltag zu leben, ist der Ansa
 Das Ziel ist nicht, das Kind zu „besiegen“, sondern die Verbindung wiederherzustellen und die Beziehung zu stärken. Eltern kämpfen nicht gegen ihr Kind, sondern um ihr Kind – mit einer Haltung der Standhaftigkeit, Klarheit und des Respekts.
 
 
-Die Säulen elterlicher Präsenz im Alltag:
-
-Selbstkontrolle als Basis: Eltern lernen, in eskalierenden Situationen bewusst zu agieren, anstatt unkontrolliert zu reagieren („Ich lasse mich nicht in den Strudel ziehen“).
-
-Beziehungsgesten als Brücken: Eltern setzen bewusst Zeichen der Fürsorge und des Wunsches nach Versöhnung („Auch wenn es schwierig ist, wir gehören zusammen“).
-
-Transparenz als offener Dialog: Probleme werden offen angesprochen, um ein gemeinsames Verständnis zu fördern und Unterstützung zu suchen.
-
-Unterstützungsnetzwerke als Halt: Eltern aktivieren ihr soziales Umfeld und suchen professionelle Hilfe, um die Last nicht allein zu tragen.
-
-Das Wir-Gefühl stärken: Eltern kommunizieren eine Haltung des Zusammenhalts und der gemeinsamen Lösungsfindung („Wir stehen das gemeinsam durch“).
-
-Die Stärkung des elterlichen Selbstwerts: Eltern kümmern sich um ihre eigenen Bedürfnisse und Ressourcen, um handlungsfähig zu bleiben.
-
 
 
 
