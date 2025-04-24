@@ -27,13 +27,15 @@ Haim Omer spricht in diesem Zusammenhang von einer „Neuen Autorität“, die n
 
 
 
+Gewaltfreier Widerstand als Ausdruck von Präsenz: 
+
 Ein wesentlicher Aspekt, um elterliche Präsenz im Alltag zu leben, ist der Ansatz des gewaltfreien Widerstands. Seine zentrale Botschaft ist klar: „Ich akzeptiere dein selbst- oder fremdschädigendes Verhalten nicht, aber ich werde dich deswegen nicht verlassen oder angreifen.“ Es ist ein aktiver und respektvoller Weg, als Eltern eine klare Position gegen inakzeptables Verhalten einzunehmen, ohne das Kind zu beschämen, zu verletzen oder auszuschließen.
 
 Das Ziel ist nicht, das Kind zu „besiegen“, sondern die Verbindung wiederherzustellen und die Beziehung zu stärken. Eltern kämpfen nicht gegen ihr Kind, sondern um ihr Kind – mit einer Haltung der Standhaftigkeit, Klarheit und des Respekts.
 
 
 
-
+Die innere Haltung stärken: Die Bedeutung des elterlichen Selbstwerts
 
 Eine zentrale Frage ist: Was brauchen Eltern, um ihren Kindern das geben zu können, was sie benötigen? Die Stärkung des elterlichen Selbstwertgefühls und der eigenen Überzeugung, handlungsfähig zu sein, ist entscheidend. Wenn Eltern sich selbst wieder als kompetent und wertvoll erleben, können sie ihren Kindern Halt und Orientierung geben. Unterstützung durch Coaching und Beratung kann Eltern helfen, ihre eigenen Grenzen, Gefühle und Bedürfnisse wieder wahrzunehmen und für sie einzustehen.
 
