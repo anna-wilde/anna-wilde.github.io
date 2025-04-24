@@ -35,7 +35,7 @@ Das Ziel ist nicht, das Kind zu „besiegen“, sondern die Verbindung wiederher
 
 
 
-Die innere Haltung stärken: Die Bedeutung des elterlichen Selbstwerts
+Die Bedeutung des elterlichen Selbstwerts:
 
 Eine zentrale Frage ist: Was brauchen Eltern, um ihren Kindern das geben zu können, was sie benötigen? Die Stärkung des elterlichen Selbstwertgefühls und der eigenen Überzeugung, handlungsfähig zu sein, ist entscheidend. Wenn Eltern sich selbst wieder als kompetent und wertvoll erleben, können sie ihren Kindern Halt und Orientierung geben. Unterstützung durch Coaching und Beratung kann Eltern helfen, ihre eigenen Grenzen, Gefühle und Bedürfnisse wieder wahrzunehmen und für sie einzustehen.
 

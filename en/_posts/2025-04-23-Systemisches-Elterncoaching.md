@@ -36,7 +36,7 @@ The goal is not to "defeat" the child but to restore connection and strengthen t
 
 
 
-Strengthening the Inner Stance: The Importance of Parental Self-Esteem
+The Importance of Parental Self-Esteem:
 
 A central question is: What do parents need to be able to give their children what they need? Strengthening parental self-esteem and the own conviction of being capable of acting is crucial. When parents again experience themselves as competent and valuable, they can give their children support and guidance. Support through coaching and counseling can help parents to perceive their own boundaries, feelings, and needs again and to stand up for them.
 
