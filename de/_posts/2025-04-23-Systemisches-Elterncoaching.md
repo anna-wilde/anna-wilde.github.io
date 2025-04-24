@@ -19,7 +19,7 @@ In Familien, in denen Kinder herausforderndes Verhalten zeigen – sei es Aggres
 Diese Eskalationen können nicht nur zu Verletzungen auf beiden Seiten führen, sondern auch ungewollt problematische Verhaltensmuster verstärken. Der Glaube, Beziehungen über Macht regulieren zu können, erweist sich als trügerisch und hinterlässt Frustration und erneut Gefühle des Scheiterns. Die Fronten verhärten sich weiter und beide Seiten haben zunehmend Probleme, ihr Gesicht zu wahren. Und besonders fatal: für das Kind kommt es dadurch zu einer Legitimation von gewaltvollem Verhalten. 
 
 
-Elterliche Präsenz als Anker: Sichtbar und verlässlich in Beziehung sein
+Elterliche Präsenz als Anker: 
 
 Im Kern geht es bei elterlicher Präsenz darum, in schwierigen Momenten sichtbar und verlässlich für das Kind da zu sein. Es ist eine Haltung der wachsamen Sorge, die signalisiert: „Ich sehe dich und ich bin für dich da, auch wenn dein Verhalten mich herausfordert.“
 
